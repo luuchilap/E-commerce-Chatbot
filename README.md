@@ -37,4 +37,4 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
 2. Navigate to the project directory:
-   
+   cd Web-Insight
